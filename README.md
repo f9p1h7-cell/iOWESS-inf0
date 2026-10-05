@@ -317,3 +317,23 @@ iPhone SE 3rd gen
 iPhone 14 / 14 Plus 
 
 iPhone 14 Pro / 14 Pro Max
+
+# Horrible iOS versions for iPhones
+
+iPhone 4 7.1.2
+
+iPhone 4S 9.3.5/6
+
+iPhone 5 None
+
+iPhone 6 / 6 Plus 12.5.7/8
+
+iPhone 6S / 6S Plus None
+
+iPhone SE 1st gen None
+
+iPhone 7 / 7 Plus None
+
+iPhone 8 / 8 Plus None
+
+
