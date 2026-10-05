@@ -261,3 +261,59 @@ iPhone 7 / 7 Plus
 iPhone 8 / 8 Plus
 
 iPhone X
+
+# 30 Pin charger iPhones
+
+iPhone 2G
+
+iPhone 3G
+
+iPhone 3GS
+
+iPhone 4
+
+iPhone 4S
+
+# Lightning charger iPhones
+
+iPhone 5 
+
+iPhone 5c 
+
+iPhone 5s 
+
+iPhone 6 / 6 Plus 
+
+iPhone 6s / 6s Plus 
+
+iPhone SE 1st gen 
+
+iPhone 7 / 7 Plus 
+
+iPhone 8 / 8 Plus 
+
+iPhone X 
+
+iPhone XR 
+
+iPhone XS / XS Max 
+
+iPhone 11 
+
+iPhone 11 Pro / 11 Pro Max 
+
+iPhone SE 2nd gen 
+
+iPhone 12 / 12 mini 
+
+iPhone 12 Pro / 12 Pro Max 
+
+iPhone 13 / 13 mini 
+
+iPhone 13 Pro / 13 Pro Max 
+
+iPhone SE 3rd gen 
+
+iPhone 14 / 14 Plus 
+
+iPhone 14 Pro / 14 Pro Max
