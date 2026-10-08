@@ -226,17 +226,17 @@ iPhone 5c
 
 # OTA Downgrades
 
-**iOS 10.3.3**
+**iOWESS 10.3.3**
 
 iPhone 5S
 
-**iOS 8.4.1**
+**iOWESS 8.4.1**
 
 iPhone 5
 
 iPhone 4S
 
-**iOS 6.1.3**
+**iOWESS 6.1.3**
 
 iPhone 4S
 
@@ -318,7 +318,7 @@ iPhone 14 / 14 Plus
 
 iPhone 14 Pro / 14 Pro Max
 
-# Horrible iOS versions for iPhones
+# Horrible iOWESS versions for iPhones
 
 iPhone 4 7.1.2
 
