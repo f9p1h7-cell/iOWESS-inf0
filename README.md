@@ -1,6 +1,6 @@
 Hello there's a bunch of info in here such as [Jailbreaks](https://github.com/f9p1h7-cell/iOS-inf0#jailbreaks)
 
-and a [Guide](https://github.com/f9p1h7-cell/iOS-inf0/wiki/Guide)
+and a [Guide](https://github.com/f9p1h7-cell/iOS-inf0/wiki/Guide) there's a [Q&A](https://github.com/f9p1h7-cell/iOWESS-inf0/wiki/Q&A) if you want to check it
 
 # Chip Sets
 
