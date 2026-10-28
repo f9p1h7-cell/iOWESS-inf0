@@ -74,6 +74,8 @@ iPhone 17 Pro / 17 Pro Max Apple A19 Pro
 
 iPhone 18 Pro / 18 Pro Max Apple A20 Pro
 
+iPhone Duo Apple A20 Pro
+
 # Jailbreaks
 
 iPhone 2G JailbreakMe 
@@ -131,6 +133,14 @@ iPhone 14 Pro / 14 Pro Max Dopamine
 iPhone 15 / 15 Plus Dopamine  
 
 iPhone 15 Pro / 15 Pro Max Dopamine
+
+iPhone 16 Pro / 16 Pro Max / iPhone 16e calif possibly releasing
+
+iPhone 17 Pro / 17 Pro Max / iPhone 17e / iPhone Air calif possibly releasing
+
+iPhone 18 Pro / 18 Pro Max calif possibly releasing
+
+iPhone Duo calif possibly releasing
 
 check [ios.cfw.guide](https://ios.cfw.guide) for more info
 
@@ -205,6 +215,8 @@ iPhone 17 Air September 19, 2025
 iPhone 17 Pro / 17 Pro Max September 19, 2025
 
 iPhone 18 Pro / 18 Pro Max September 18, 2026
+
+iPhone Duo October 23, 2026
 
 # iBoot exploits (no blobs)
 
